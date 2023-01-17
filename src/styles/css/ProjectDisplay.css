@@ -1,0 +1,11 @@
+@media all and (min-width: 650px) and (max-width: 959px) {
+    .project-display-page {
+        height: 100vh !important;
+    }
+}
+
+@media all and (min-width: 650px) and (max-width: 1279px) {
+    .project-display-page .content-box {
+        flex-basis: 40% !important;
+    }
+}
